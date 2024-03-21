@@ -1,0 +1,16 @@
+inovakov radicle % rad init                                                                                                                                                    552ms
+
+Initializing radicle 👾 repository in /Users/inovakov/source/radicle..
+
+✓ Name radicle
+✓ Description A Radicle sandbox where I can play with the protocol.
+✓ Default branch main
+✓ Visibility public
+✓ Repository radicle created.
+
+Your Repository ID (RID) is rad:z43CW9FTxrtAH922RHZ8bmSKkJfdu.
+You can show it any time by running `rad .` from this directory.
+
+Your repository will be announced to the network when you start your node.
+You can start your node with `rad node start`.
+To push changes, run `git push`.
